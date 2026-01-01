@@ -41,4 +41,12 @@ Joins
 Subqueries        
 Aggregate functions    
 Group By & Having      
-Views    
+Views   
+## 💡 Key Insights
+A small percentage of customers generate the majority of revenue    
+Certain product lines consistently outperform others    
+Regional and office-wise performance varies significantly    
+High-performing employees strongly impact overall sales    
+
+## 🚀 Conclusion
+This project demonstrates strong SQL EDA skills, showcasing the ability to analyze complex relational databases and translate raw data into meaningful business insights.
